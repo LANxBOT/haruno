@@ -22,7 +22,7 @@ global.APIKeys = { // APIKey nya disini
   'https://api.xteam.xyz': 'HIRO',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.xyz': 'FVe0JFCdME58YSKmhoDWdRtyuJt',
-  'https://api.lolhuman.xyz': '929b48b9aa5a91abed8526cd',
+  'https://api.lolhuman.xyz': '213c64b0ead30225391ce243',
   'https://api.vhtear.com': 'sayahafiz',
   'http://zekais-api.herokuapp.com': 'grqgD6pU',
   'https://bx-hunter.herokuapp.com': 'Ikyy69',
