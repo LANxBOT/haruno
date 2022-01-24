@@ -1,5 +1,5 @@
 let fs = require('fs')
-global.owner = ['60189830350', '60149432385','6285865739091', '6285865739091', '6285693602003', '6283153189868'] // Letakan nomor kamu disini
+global.owner = ['60189830350', '60149432385','628998512588', '6285865739091', '6285693602003', '6283153189868'] // Letakan nomor kamu disini
 global.APIs = { // API Prefix
   // nama: 'https://website'
   jonaz: 'https://jonaz-api-v2.herokuapp.com',
