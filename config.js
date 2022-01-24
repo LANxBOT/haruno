@@ -29,8 +29,8 @@ global.APIKeys = { // APIKey nya disini
 }
 
 // Sticker WM
-global.packname = 'Haruno'
-global.author = 'Fadli'
+global.packname = 'Lyn offical🌸'
+global.author = 'Offcial bot Lan🌸'
 
 global.wait = '「 ⏱️ 」Harap tunggu...'
 global.eror = '「❗」Server ERROR!'
